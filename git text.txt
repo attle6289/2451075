@@ -1,0 +1,15 @@
+화요일 vr/ar뭐시기수업 
+
+- 유니티 위주 
+
+숫자 
+int 정수 
+float 소수 
+
+문자 
+string 일상에서 쓰는 용어들 
+
+참이냐 거짓이냐 
+bool  true / false 
+
+https://github.com/attle6289/2451075.git 
