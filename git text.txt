@@ -12,6 +12,6 @@ string 일상에서 쓰는 용어들
 참이냐 거짓이냐 
 bool  true / false 
 
-https://github.com/attle6289/2451075.git 
-
 ㅎㅇ 
+
+https://github.com/attle6289/2451075.git 
